@@ -1,7 +1,9 @@
 # Basic-CSV-handler-using-python
 
-libraries:
+Script:
 
 ```bash
 pip install PyQt5
+pip install pyinstaller
+pyinstaller main.py
 ```
